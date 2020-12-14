@@ -1,0 +1,6 @@
+node_modules
+Jenkinsfile
+Dockerfile
+.env.local
+deploy-app.yml
+README.md
