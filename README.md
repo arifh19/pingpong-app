@@ -44,17 +44,17 @@ $ curl http://minikubeip/health
 
 ### Screenshot Output Minikube IP
 
-![alt text](./screenshot/minikubeip.jpg)
+![alt text](./screenshot/minikube.jpg)
 
 ### Screenshot Output CURL
 
-![alt text](./screenshot/curlip.jpg)
+![alt text](./screenshot/curl.jpg)
 
 ### Screenshot Minikube Dashboard
 
-![alt text](./screenshot/dashboard_1.jpg)
-![alt text](./screenshot/dashboard_2.jpg)
-![alt text](./screenshot/dashboard_3.jpg)
+![alt text](./screenshot/dashboard1.jpg)
+![alt text](./screenshot/dashboard2.jpg)
+![alt text](./screenshot/dashboard3.jpg)
 
 [minikube]: https://minikube.sigs.k8s.io/docs/start/
 [kubernetes]: https://kubernetes.io/
