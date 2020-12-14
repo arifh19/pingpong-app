@@ -10,7 +10,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ### Requirement
 
-- [Minikube] - HTML enhanced for web apps!
+- [Minikube] - is a tool that lets you run Kubernetes locally
 
 ```sh
 $ minikube start
